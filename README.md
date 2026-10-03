@@ -36,11 +36,7 @@ This project uses public pretrained models. It does not train any models.
 
 <img width="2250" height="1450" alt="Vehicle context crops" src="https://github.com/user-attachments/assets/68f73f6e-ca9d-458b-9993-1e062a592ca9" />
 
-*Timestamped rider and vehicle context crops.*
 
-<img width="2870" height="1526" alt="Additional vehicle context crops" src="https://github.com/user-attachments/assets/3782d784-d042-4e67-b30e-a5c32ca5e91d" />
-
-*Additional captured images for another violation.*
 
 ---
 
