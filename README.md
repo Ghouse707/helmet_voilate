@@ -32,11 +32,6 @@ This project uses public pretrained models. It does not train any models.
 
 <img width="2372" height="1518" alt="Evidence and plate crop" src="https://github.com/user-attachments/assets/4a753ca5-8061-4873-82e7-73b065dc834a" />
 
-*Selected violation with annotated evidence and the best detected plate crop.*
-
-<img width="2250" height="1450" alt="Vehicle context crops" src="https://github.com/user-attachments/assets/68f73f6e-ca9d-458b-9993-1e062a592ca9" />
-
-
 
 ---
 
